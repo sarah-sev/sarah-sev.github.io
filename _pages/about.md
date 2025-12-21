@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,5 @@ redirect_from:
 
 
 ======
-
-
-======
-
-------
+I am a third year physics major at Reed College in Portland, Oregon. Interested in computaional physics.
 ------

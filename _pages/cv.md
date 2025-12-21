@@ -15,19 +15,35 @@ Education
 
 Work experience
 ======
-  
+* Educational Technology Consultant (DataLabbie)
+      * Reed College, October 2023 - Present
+
+* Student Researcher 
+      * University of Utah, May 2025 - August 2025
+
+* Lab Teaching Assistant and Grader, Physics 164 Stars and Stellar Systems 
+      * Reed College, August 2024-December 2024
+
+* Intern
+      * Ionis Pharmaceuticals, July 2022 - August 2022
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, R, C/C++
+* Packages/Frameworks: NumPy, Xarray, Pandas, Scikit-learn, Shiny, SciPy, Matplotlib
+* Software: Mathematica, VSCode, LabVIEW, Arduino IDE, Jupyter, R Studio, QGIS
 
-Publications
+Courses
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Physics 342 Quantum Mechanics I (in progress)
+* Physics 332 Advanced Laboratory II (in progress)
+* Math 311 Complex Analysis (in progress)
+* Physics 311 Classical Mechanics I
+* Physics 321 Electrodynamics
+* Physics 331 Advanced Laboratory I
+* Physics 202 Modern Physics
+* Physics 211 Oscillations and Waves
+* Physics 231 Introduction to Electronics
+* Math 322 Ordinary Differential Equations
+* Math 202 Vector Calculus
+* Math 201 Linear Algebra
