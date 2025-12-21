@@ -21,7 +21,7 @@ Work experience
       * May 2025 - August 2025
   * Lab Teaching Assistant and Grader, Physics 164 Stars and Stellar Systems, Reed College
       * August 2024-December 2024
-  * Intern, Ionis Pharmaceuticals, 
+  * Intern, Ionis Pharmaceuticals
       * July 2022 - August 2022
 
 Skills

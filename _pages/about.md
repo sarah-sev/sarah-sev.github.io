@@ -7,7 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-
-======
-I am a third year physics major at Reed College in Portland, Oregon. Interested in computaional physics.
-------
+I am a third year physics major at Reed College in Portland, Oregon.
