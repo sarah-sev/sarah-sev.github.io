@@ -15,16 +15,13 @@ Education
 
 Work experience
 ======
-* Educational Technology Consultant (DataLabbie)
+  * Educational Technology Consultant (DataLabbie)
       * Reed College, October 2023 - Present
-
-* Student Researcher 
+  * Student Researcher 
       * University of Utah, May 2025 - August 2025
-
-* Lab Teaching Assistant and Grader, Physics 164 Stars and Stellar Systems 
+  * Lab Teaching Assistant and Grader, Physics 164 Stars and Stellar Systems 
       * Reed College, August 2024-December 2024
-
-* Intern
+  * Intern
       * Ionis Pharmaceuticals, July 2022 - August 2022
 
 Skills
