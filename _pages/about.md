@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homes"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,11 +12,6 @@ redirect_from:
 
 
 ======
-
-------
-
-**Markdown generator**
-
 
 ------
 ------
