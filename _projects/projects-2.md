@@ -10,6 +10,7 @@ triggers the launcher with the servo motor before resetting the trigger and movi
 collection: projects
 ---
 
-<video width="640" height="480" controls loop="" muted="" autoplay="">
+<br/><video width="750" height="400" controls loop="" muted="" autoplay="">
     <source src="/files/projectdemo.mp4" />
 </video>
+
