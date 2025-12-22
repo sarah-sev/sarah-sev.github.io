@@ -9,3 +9,7 @@ stepper motor to move the projectile launcher to the required launch angle. The 
 triggers the launcher with the servo motor before resetting the trigger and moving the launcher back to its starting angle. Our final prototype successfully launched the ball into a 5 cm wide target at distances less than 70 cm."
 collection: projects
 ---
+
+<video width="640" height="480" controls loop="" muted="" autoplay="">
+    <source src="/files/projectdemo.mp4" />
+</video>

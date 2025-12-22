@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <a href="https://sarah-sev.github.io/files/Severinghaus_CV.pdf" target="_blank">CV (PDF)</a>
 permalink: /cv/
 author_profile: true
 redirect_from:
