@@ -1,5 +1,6 @@
 ---
 title: "Automatic Projectile Launcher w/ ToF"
+permalink: /projects
 excerpt: "Automatic aiming and triggering
 projectile launcher using a time of flight (ToF) sensor to measure the distance to the target,
 a stepper motor to adjust the launcher angle, and a servo motor to trigger the projectile launcher.
