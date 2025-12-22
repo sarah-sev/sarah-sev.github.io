@@ -8,3 +8,18 @@ redirect_from:
 ---
 
 I am a third year physics major at Reed College in Portland, Oregon.
+
+Research Interests:
+  * Computaional Physics
+    * Numerical Methods
+    * Visualization
+  * Atmospheric Sciences
+    * Turbulence
+    * Lightning
+    * Clouds
+
+Outside of physics, I love snowboarding, hiking, bouldering, and dogs!
+
+<br/><img src='/images/yosemiteheart.JPG' width="400"/>
+
+<br/><img src='/images/whitneyhike.jpeg' width="300"/> 

@@ -1,5 +1,6 @@
 ---
 title: "How does aerosol size mediate cloud droplet formation? (Poster)"
-excerpt: "<img src="images/Poster.png" width="40" height="40" />"
+permalink: /projects
+excerpt: <br/><img src='/images/poster.png' width="600"/>
 collection: projects
 ---
