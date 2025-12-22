@@ -29,7 +29,7 @@ Work experience
 Skills
 ======
 * Languages: Python, R, C/C++
-* Packages/Frameworks: NumPy, Xarray, Pandas, Scikit-learn, Shiny, SciPy, Matplotlib
+* Packages/Frameworks: NumPy, Xarray, Pandas, Scikit-learn, Shiny, SciPy, Matplotlib, Git
 * Software: Mathematica, VSCode, LabVIEW, Arduino IDE, Jupyter, R Studio, QGIS/ARCGIS
 
 Courses
