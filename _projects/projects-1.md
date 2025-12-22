@@ -1,7 +1,7 @@
 ---
 title: "How does aerosol size mediate cloud droplet formation? (Poster)"
 permalink: /projects/poster/
-excerpt: <br/><img src='/images/Poster.png' width="500" />
+excerpt: "Poster from summer 2025 research at Univeristy of Utah."
 collection: projects
 ---
 

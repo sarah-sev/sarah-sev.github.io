@@ -17,8 +17,10 @@ Work experience
 ======
   * Educational Technology Consultant (DataLabbie), Reed College
       * October 2023 - Present
+      * [Sample Collaboration](https://github.com/data-at-reed-college/color-counter)
   * Undergraduate Researcher, University of Utah
       * May 2025 - August 2025
+      * [Poster](/projects/poster/)
   * Lab Teaching Assistant and Grader, Physics 164 Stars and Stellar Systems, Reed College
       * August 2024 - December 2024
   * Intern, Ionis Pharmaceuticals
