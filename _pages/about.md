@@ -20,9 +20,7 @@ Research Interests:
 
 Outside of physics, I love snowboarding, hiking, bouldering, and dogs.
 
-<br/><video width="250" height="300" controls loop="" muted="" autoplay="">
-    <source src="/files/LorenzAnimation4.mp4" />
-</video> 
+<br/><video width="250" height="300" controls loop="" muted="" autoplay=""><source src="/files/LorenzAnimation4.mp4"/></video> 
 
 <br/><img src='/images/whitneyhike.jpeg' width="200"/> 
 <img src='/images/yosemiteheart.JPG' width="300"/> 
