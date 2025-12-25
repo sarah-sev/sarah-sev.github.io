@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year physics major at Reed College in Portland, Oregon.
+I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego.
 
 Research Interests:
   * Computational Physics
@@ -20,7 +20,17 @@ Research Interests:
 
 Outside of physics, I love snowboarding, hiking, bouldering, and dogs.
 
-<br/><video width="250" height="300" controls loop="" muted="" autoplay=""><source src="/files/LorenzAnimation4.mp4"/></video> 
-
-<br/><img src='/images/whitneyhike.jpeg' width="200"/> 
-<img src='/images/yosemiteheart.JPG' width="300"/> 
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: center;">
+  <a target="_blank" href="/projects/lorenz-system-expository-paper/">
+    <video width="250" height="250" controls loop="" muted="" autoplay=""><source src="/files/LorenzAnimation4.mp4"></video> 
+  </a>
+  <img src='/images/whitneysunset.jpeg' width=250/>
+   <a target="_blank" href="/projects/poster/">
+  <img src="images/parcelmodel.gif" width=330>
+   </a>
+  <img src='/images/whitneysunrise.jpeg' width=250/>
+   <a target="_blank" href="/projects/presentation-problem/">
+  <img src="images/trajectory.gif" width=300>
+   </a>
+  <img src='/images/whitneyhike.jpeg' width=300/>
+</div>
