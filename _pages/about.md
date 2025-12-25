@@ -32,5 +32,5 @@ Outside of physics, I love snowboarding, hiking, bouldering, and dogs.
    <a target="_blank" href="/projects/presentation-problem/">
   <img src="images/trajectory.gif" width=300>
    </a>
-  <img src='/images/whitneyhike.jpeg' width=300/>
+  <img src='/images/whitneyhike.jpeg' width=250/>
 </div>
