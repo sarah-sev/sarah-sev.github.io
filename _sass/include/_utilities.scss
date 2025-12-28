@@ -117,11 +117,6 @@ body:hover .visually-hidden button {
   @include container();
 }
 
-.flex-container {
-  display: flex;
-  flex: 1;
-  flex-direction: row;
-}
 
 /* Source: http://snipplr.com/view/10979/css-cross-browser-word-wrap */
 .wordwrap { 

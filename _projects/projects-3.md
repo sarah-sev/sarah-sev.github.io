@@ -1,11 +1,11 @@
 ---
-title: "Lorenz System Numerical Solutions"
-permalink: /projects/lorenz-system-expository-paper/
-excerpt: "Final project for Math 322 Ordinary Differential Equations."
+title: "Presentation Problem (Classical Mechanics)"
+permalink: /projects/presentation-problem/
+excerpt: "Physics 311 presentation problem: the ''W'' toy potential."
 collection: projects
 ---
 
-[Mathematica Notebook](https://github.com/sarah-sev/lorenz-numerical-solutions)
-
-<br/><embed src="/files/Numerical_Solutions_Lorenz_System.pdf" width="700" height="1000"
+<br/><embed src="/files/311_Presentation_Problem_1.pdf" width="700" height="1000"
  type="application/pdf">
+
+ <video width="250" height="250" controls loop="" muted="" autoplay=""><source src="/files/LorenzAnimation4.mp4"></video> 

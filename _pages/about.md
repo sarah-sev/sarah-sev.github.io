@@ -13,8 +13,9 @@ Research Interests:
   * Computational Physics
     * Numerical Methods
     * Visualization
-  * Atmospheric Sciences/Geophysical Fluid Dynamics
-    * Turbulence
+  * Geophysical Fluid Dyanmics
+  * Turbulence
+  * Atmospheric Physics
     * Lightning
     * Clouds
 
