@@ -30,7 +30,7 @@ Outside of physics, I love snowboarding, hiking, bouldering, and dogs.
   <img src="images/parcelmodel.gif" width=330>
    </a>
   <img src='/images/whitneysunrise.jpeg' width=250/>
-   <a target="_blank" href="/projects/presentation-problem/">
+   <a target="_blank" href="/projects/presentation-problem1/">
   <img src="images/trajectory.gif" width=300>
    </a>
   <img src='/images/thousandislandlake.JPG' width=250/>

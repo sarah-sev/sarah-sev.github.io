@@ -1,6 +1,6 @@
 ---
 title: "Presentation Problem 1 (Classical Mechanics)"
-permalink: /projects/presentation-problem/
+permalink: /projects/presentation-problem1/
 excerpt: "Physics 311 presentation problem: the ''W'' toy potential."
 collection: projects
 ---
