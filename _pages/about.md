@@ -13,13 +13,11 @@ Research Interests:
   * Computational Physics
     * Numerical Methods
     * Visualization
-  * Geophysical Fluid Dyanmics
+  * Geophysical Fluid Dynamics
   * Turbulence
   * Atmospheric Physics
-    * Lightning
-    * Clouds
 
-Outside of physics, I love snowboarding, hiking, bouldering, and dogs.
+Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I love dogs and dabble in many other outdoor activities.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: center;">
   <a target="_blank" href="/projects/lorenz-system-expository-paper/">
