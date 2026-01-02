@@ -27,9 +27,11 @@ Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I 
    <a target="_blank" href="/projects/poster/">
   <img src="images/parcelmodel.gif" width=400>
    </a>
-  <img src='/images/whitneysunrise.jpeg' width=250/>
+  <img src='/images/whitneysunrise.jpeg' width=290/>
    <a target="_blank" href="/projects/presentation-problem1/">
   <img src="images/trajectory.gif" width=300>
    </a>
-  <img src='/images/thousandislandlake.JPG' width=230/>
+   <a target="_blank" href="/projects/hist310paper/">
+  <img src='/images/swamis.jpeg' width=220/>
+    </a>
 </div>
