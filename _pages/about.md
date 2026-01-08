@@ -21,10 +21,12 @@ Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: center;">
   <a target="_blank" href="/projects/lorenz-system-expository-paper/">
-   <img src="/files/LorenzAnimation4.gif" width=230>
+   <img src="/files/LorenzAnimation4.gif" width=220>
   </a>
-  <img src='/images/whitneysunset.jpeg' width=230/>
-   <a target="_blank" href="/projects/poster/">
+  <a target="_blank" href="/projects/poster/">
+  <img src='/images/output.png' width=350/>
+    </a>
+   <a target="_blank" href="/projects/parcel/">
   <img src="images/parcelmodel.gif" width=400>
    </a>
   <img src='/images/whitneysunrise.jpeg' width=290/>
