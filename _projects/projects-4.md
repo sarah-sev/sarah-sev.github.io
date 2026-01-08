@@ -6,6 +6,6 @@ collection: projects
 ---
 [Mathematica Notebook](https://github.com/sarah-sev/two-mass-central-force-on-hoop)
 
-<br/><embed src="/files/311_Presentation_Problem-2.pdf" width="700" height="1000"
+<br/><embed src="/files/311_Presentation_Problem_2.pdf" width="700" height="1000"
  type="application/pdf">
 
