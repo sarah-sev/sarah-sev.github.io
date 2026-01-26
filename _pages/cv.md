@@ -38,12 +38,12 @@ Courses
       * 342 Quantum Mechanics I (in progress)
       * 332 Advanced Laboratory II (in progress)
       * 311 Classical Mechanics I
-      * 321 Electrodynamics
+      * 321 Electrodynamics I
       * 331 Advanced Laboratory I
       * 202 Modern Physics
       * 211 Oscillations and Waves
       * 231 Introduction to Electronics
-      * 101/102 Introductory Physics
+      * 101/102 Introductory Physics I & II
   * Math:
     * 311 Complex Analysis (in progress)
     * 322 Ordinary Differential Equations
