@@ -24,7 +24,7 @@ Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I 
    <img src="/files/LorenzAnimation4.gif" width=220>
   </a>
   <a target="_blank" href="/projects/poster/">
-  <img src='/images/output.png' width=350/>
+  <img src='/images/Poster.png' width=350/>
     </a>
    <a target="_blank" href="/projects/parcel/">
   <img src="images/parcelmodel.gif" width=400>
