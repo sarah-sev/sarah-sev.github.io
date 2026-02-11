@@ -1,7 +1,7 @@
 ---
 title: "Presentation Problem 2 (Classical Mechanics)"
 permalink: /projects/presentation-problem2/
-excerpt: "Physics 311 presentation problem: masses connected by spring constrained to hoop."
+excerpt: "Masses connected by spring constrained to move along hoop (Lagrangian approach)."
 collection: projects
 ---
 [Mathematica Notebook](https://github.com/sarah-sev/two-mass-central-force-on-hoop)

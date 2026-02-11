@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego.
+I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego. 
 
-Research Interests:
+Research interests:
   * Computational Physics
     * Numerical Methods
     * Visualization
   * Geophysical Fluid Dynamics
   * Turbulence
-  * Atmospheric Physics
 
 Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I love dogs and dabble in many other outdoor activities.
 
