@@ -7,13 +7,17 @@ redirect_from:
   - /CV
 ---
 
+<style>
+h1 { font-size: 20px; }
+</style>
+
 {% include base_path %}
 
 Education
 ======
 * B.A in Physics, Reed College, 2027 (expected)
 
-Work experience
+Work Experience
 ======
   * Educational Technology Consultant (DataLabbie), Reed College
       * October 2023 - Present
