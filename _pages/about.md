@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego. 
+I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego. I am interested in pursuing further education and research in computational physics.
 
-Research interests:
-  * Computational Physics
-    * Numerical Methods
-    * Visualization
-  * Geophysical Fluid Dynamics
-  * Turbulence
-
-Outside of physics, I enjoy snowboarding, hiking/backpacking, and bouldering. I love dogs and dabble in many other outdoor activities.
+Outside of physics, I enjoy snowboarding, hiking, backpacking, and bouldering. I love dogs and dabble in many other outdoor activities.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: center;">
   <a target="_blank" href="/projects/lorenz-system-expository-paper/">
