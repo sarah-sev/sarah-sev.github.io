@@ -19,6 +19,8 @@ Education
 
 Work Experience
 ======
+  * Research Fellowship, Reed College
+      * June 2026 - Present
   * Educational Technology Consultant (DataLabbie), Reed College
       * October 2023 - Present
       * [Sample Collaboration](https://github.com/data-at-reed-college/color-counter)
