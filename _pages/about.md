@@ -7,23 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year physics major at Reed College in Portland, Oregon. I am originally from San Diego. I am interested in pursuing further education and research in computational physics.
+I am a senior physics major at Reed College in Portland, Oregon. I am writing my senior thesis on the dynamics of beer bubbles (advised by Lucas Illing).
 
-Outside of physics, I enjoy snowboarding, hiking, backpacking, and bouldering. I love dogs and dabble in many other outdoor activities.
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: center;">
-  <a target="_blank" href="/projects/lorenz-system-expository-paper/">
-   <img src="/files/LorenzAnimation4.gif" width=220>
-  </a>
-  <a target="_blank" href="/projects/poster/">
-  <img src='/images/Poster.png' width=350/>
-    </a>
-   <a target="_blank" href="/projects/parcel/">
-  <img src="images/parcelmodel.gif" width=400>
-   </a>
-  <img src='/images/whitneysunrise.jpeg' width=290/>
-   <a target="_blank" href="/projects/presentation-problem1/">
-  <img src="images/trajectory.gif" width=300>
-   </a>
-  <img src='/images/swamis.jpeg' width=220/>
+---
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 90px; align-items: center;">
+ <img src='/images/swamis.jpeg' width=210/>
+  <img src='/images/whitneysunrise.jpeg' width=300/>
+    <img src='/images/thousandisland.jpg' width=210/>
 </div>
+---
+
+
+I'm originally from San Diego, and I enjoy snowboarding, hiking, backpacking, and bouldering. I love dogs and enjoy dabbling in many other outdoor activities, even the ones I'm not so great at such as cross country and downhill skiing.
