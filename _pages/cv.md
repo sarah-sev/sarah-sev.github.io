@@ -1,8 +1,7 @@
 ---
 layout: archive
-title: <a href="https://sarah-sev.github.io/files/Severinghaus_CV.pdf" target="_blank">CV (PDF)</a>
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /CV
 ---
@@ -10,5 +9,8 @@ redirect_from:
 <style>
 h1 { font-size: 20px; }
 </style>
+
+<br/><embed src="/files/Severinghaus_CV.pdf" width="700" height="958"
+ type="application/pdf">
 
 {% include base_path %}

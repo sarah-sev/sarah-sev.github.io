@@ -14,3 +14,70 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<style>
+  body { font-family: "Times", sans-serif; }
+  h1, h2, h3, h4, h5, h6,
+  .page__title,
+  .author__name,
+  .author__bio,
+  .btn,
+  .masthead,
+  .masthead *,
+  .greedy-nav,
+  .greedy-nav *,
+  .masthead__menu-item,
+  .masthead__menu-item a,
+  .nav-text,
+  .archive__item-title,
+  input, button, textarea { font-family: inherit; }
+  .list__item .archive__item,
+  .archive__item {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 1em 1.25em;
+  margin-bottom: 1.25em;
+  background: #fff;
+  }
+  .archive__item:hover {
+  border-color: #446179;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  .archive__item-title {
+  margin-top: 0;
+  color: #446179;
+  }
+  .archive__item-title a:visited {
+  color: #446179 !important;
+  }
+  .archive__item {
+  position: relative;
+  cursor: pointer;
+}
+
+/* Make the title link look like plain text */
+.archive__item-title a,
+.archive__item-title a:visited,
+.archive__item-title a:hover {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+/* Stretch the link over the whole box */
+.archive__item-title a::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+/* Keep any other links inside the box (e.g. in the description) clickable */
+.archive__item-teaser a,
+.archive__item-excerpt a {
+  position: relative;
+  z-index: 2;
+}
+</style>
