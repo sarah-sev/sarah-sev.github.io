@@ -14,5 +14,5 @@ I'm originally from San Diego. In my free time I enjoy snowboarding, backpacking
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 90px; align-items: center;">
  <img src='/images/swamis.jpeg' width=210/>
   <img src='/images/whitneysunrise.jpeg' width=300/>
-    <img src='/images/thousandisland.jpg' width=210/>
+    <img src='/images/thousandisland.JPG' width=210/>
 </div>
