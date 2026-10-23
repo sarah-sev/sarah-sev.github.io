@@ -1,11 +1,8 @@
 ---
-title: "Numerical Solutions to the Lorenz System (Expository Paper)"
-permalink: /projects/lorenz-system-expository-paper/
-excerpt: "Final project for Math 322 Ordinary Differential Equations."
+title: "How does aerosol size mediate cloud droplet formation? (Poster)"
+permalink: /projects/poster/
+excerpt: <img src='/images/CODT.png' width=150/> Poster from summer 2025 research at Univeristy of Utah.
 collection: projects
 ---
 
-[Mathematica Notebook](https://github.com/sarah-sev/lorenz-numerical-solutions)
-
-<br/><embed src="/files/Numerical_Solutions_Lorenz_System.pdf" width="700" height="1000"
- type="application/pdf">
+<br/><img src='/images/Poster.png' width="900" />

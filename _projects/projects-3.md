@@ -1,9 +1,11 @@
 ---
-title: "Spectrum, Entanglement, and Fermionization for
-Two Charges in One Dimension"
-permalink: /projects/ResearchSummer2026/
-excerpt: "Poster presentation from 2026 summer research. Complete manuscript in progress..."
+title: "Numerical Solutions to the Lorenz System (Expository Paper)"
+permalink: /projects/lorenz-system-expository-paper/
+excerpt: <img src='/files/LorenzAnimation4.gif' width=120/> Final project for Math 322 Ordinary Differential Equations.
 collection: projects
 ---
-<br/><embed src="/files/QM_Poster.pdf" width="720" height="465"
+
+[Mathematica Notebook](https://github.com/sarah-sev/lorenz-numerical-solutions)
+
+<br/><embed src="/files/Numerical_Solutions_Lorenz_System.pdf" width="700" height="1000"
  type="application/pdf">
