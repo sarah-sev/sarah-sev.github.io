@@ -18,7 +18,6 @@
 <style>
   body { font-family: "Times", sans-serif; }
   h1, h2, h3, h4, h5, h6,
-  .page__title,
   .author__name,
   .author__bio,
   .btn,
@@ -39,6 +38,11 @@
   margin-bottom: 1.25em;
   background: #fff;
   }
+
+  .page__title {
+  font-size: larger;
+  }
+
   .archive__item:hover {
   border-color: #446179;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -55,7 +59,6 @@
   cursor: pointer;
 }
 
-/* Make the title link look like plain text */
 .archive__item-title a,
 .archive__item-title a:visited,
 .archive__item-title a:hover {
@@ -63,7 +66,6 @@
   text-decoration: none !important;
 }
 
-/* Stretch the link over the whole box */
 .archive__item-title a::after {
   content: "";
   position: absolute;
@@ -74,10 +76,27 @@
   z-index: 1;
 }
 
-/* Keep any other links inside the box (e.g. in the description) clickable */
 .archive__item-teaser a,
 .archive__item-excerpt a {
   position: relative;
   z-index: 2;
+}
+
+.page-banner img {
+  width: 100%;
+  height: 330px;
+  object-fit: cover;
+  border-radius: 0px;
+  margin-bottom: 1.5em;
+}
+
+.banner-overlay { position: relative; }
+.banner-overlay h1 {
+  position: absolute;
+  bottom: 10.5em;
+  left: 10.75em;
+  margin: 0;
+  color: #fff;
+  text-shadow: 0 1px 4px rgba(0,0,0,0.6);
 }
 </style>
