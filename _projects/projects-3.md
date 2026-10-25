@@ -1,7 +1,7 @@
 ---
-title: "Numerical Solutions to the Lorenz System (Expository Paper)"
+title: "Numerical Solutions to the Lorenz System"
 permalink: /projects/lorenz-system-expository-paper/
-excerpt: <img src='/files/LorenzAnimation4.gif' width=120/> Final project for Math 322 Ordinary Differential Equations.
+excerpt: <img src='/files/LorenzAnimation4.gif' width=120/> Expository paper for Math 322 (ODEs) final project.
 collection: projects
 ---
 
