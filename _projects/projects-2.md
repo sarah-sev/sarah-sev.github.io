@@ -1,6 +1,6 @@
 ---
 title: "How does aerosol size mediate cloud droplet formation?"
-permalink: /projects/poster/
+permalink: /projects/ResearchSummer2025/
 excerpt: <img src='/images/CODT.png' width=150/> Poster from summer 2025 research at Univeristy of Utah.
 collection: projects
 ---
