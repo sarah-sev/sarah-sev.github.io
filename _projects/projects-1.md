@@ -2,7 +2,7 @@
 title: "Spectrum, Entanglement, and Fermionization for
 Two Charges in One Dimension"
 permalink: /projects/ResearchSummer2026/
-excerpt: <img src='/images/chargeden.jpg' width=150/> Poster from summer 2026 research. Complete manuscript in progress...
+excerpt: <img src='/images/chargeden.jpg' width=150/> Poster from summer 2026 research. Complete manuscript (submitted) coming soon.
 collection: projects
 ---
 <br/><embed src="/files/QM_Poster.pdf" width="720" height="465"
